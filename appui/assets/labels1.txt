@@ -1,0 +1,5 @@
+ healthy
+ powdery mildew
+ rust
+ leaf spots
+ leaf blights

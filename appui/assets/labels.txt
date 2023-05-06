@@ -1,0 +1,6 @@
+ healthy
+ powdery
+ rust
+ leaf spots
+ leaf blights
+ 
